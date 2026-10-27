@@ -4,6 +4,15 @@ An AI-powered document analysis system designed to streamline government tender 
 
 BIDLens aims to make tender evaluation more structured, traceable, and efficient through intelligent document processing, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
+## Project Resources
+
+- **Technical Report:** [Read the Technical Report](https://drive.google.com/file/d/1NesXJnvJs7cFSjpgTYl0VXRNYNEx_3WG/view?usp=drive_link)
+- **User Guide:** [Read the User Guide](https://drive.google.com/file/d/1wOKuE1AxTThmMuziy_BrdSk3aWciKc9n/view?usp=drive_link)
+- **Project Demonstration:** [Watch the BIDLens Demo on YouTube](https://youtu.be/i5i6qQeISlM)
+- **Original Project Repository:** [BIDLens on GitHub](https://github.com/aayushreemalviya26/BIDLENS)
+
+---
+
 ## Project Overview
 
 Government tenders often contain lengthy documents with technical specifications, eligibility conditions, financial requirements, warranty clauses, and other compliance criteria. Manually comparing these requirements against multiple bidder submissions can be time-consuming and prone to oversight.
@@ -49,42 +58,27 @@ The system is designed to assist procurement officers in reviewing requirements 
 My contributions to BIDLens focused on two areas:
 
 ### LLM and RAG Development
+
 - Worked on the AI pipeline for extracting structured requirements from tender documents.
 - Worked with clause-aware document processing and semantic retrieval to identify relevant document sections.
 - Contributed to organising extracted information into structured requirements using LLMs.
 - Focused on improving the relevance and traceability of retrieved information through supporting page references.
 
 ### Technical Documentation
+
 - Contributed to documenting the system's technical approach and workflow.
 - Worked on technical documentation describing the AI/ML pipeline and document-processing approach.
 
-## Project Resources
-
-### Technical Documentation
-
-- [Technical Report](https://drive.google.com/file/d/1NesXJnvJs7cFSjpgTYl0VXRNYNEx_3WG/view?usp=drive_link)
-- [User Guide](https://drive.google.com/file/d/1wOKuE1AxTThmMuziy_BrdSk3aWciKc9n/view?usp=drive_link)
-
-### Project Demonstration
-
-- [Watch the BIDLens Demonstration on YouTube](https://youtu.be/i5i6qQeISlM)
-
-### Original Project Repository
-
-- [BIDLens — Original GitHub Repository](https://github.com/aayushreemalviya26/BIDLENS)
-
 ## Contributors
 
-BIDLens was developed collaboratively by the following team members.
+BIDLens was developed collaboratively by the following team members:
 
-1. **[D Rasi Shree]**
-2. **[Aayushree Malvia]**
-3. **[Harshita Singh]**
-4. **[Mehak Devang]**
-5. **[Aarushi Singh]**
-6. **[Aarushi]**
-
-*Replace these placeholders with the contributors' names and, where available, their GitHub profiles.*
+1. **D Rasi Shree**
+2. **Aayushree Malvia**
+3. **Harshita Singh**
+4. **Mehak Devang**
+5. **Aarushi Singh**
+6. **Aarushi**
 
 ## Project Scope
 
@@ -94,4 +88,5 @@ BIDLens is intended to assist procurement officers by organising tender requirem
 
 This project was developed collaboratively as a technology-driven approach to improving the efficiency and traceability of tender compliance review.
 
-See the [original project repository](https://github.com/aayushreemalviya26/BIDLENS) for the project code and associated development materials.
+The original project code and associated development materials are available in the [BIDLens GitHub repository](https://github.com/aayushreemalviya26/BIDLENS).
+
